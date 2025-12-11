@@ -1,0 +1,627 @@
+img {
+    width: 100%;
+}
+
+* {
+    margin: 0;
+}
+
+.imgg img {
+    transition: 0.8s;
+    transform: scale(1.1);
+}
+
+.imgg {
+    background: url(https://livedemo00.template-help.com/wt_53136/images/bg-bunner-2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+
+}
+
+.divvv1 img {
+    width: 112px;
+}
+
+.clas {
+    display: flex;
+    padding: 30px 20px;
+    background-color: rgb(210, 210, 210, 0.6);
+}
+
+.tas {
+    display: flex;
+    margin: auto;
+}
+
+.home {
+    margin: 0 15px;
+    color: #41A451;
+}
+
+.bok {
+    color: #000;
+    background: #fff;
+    padding: 15px 30px;
+    border: 1px solid #fff;
+}
+
+.bok:hover {
+    color: #fff;
+    background: #000;
+    border: 1px solid #000;
+}
+
+.ab {
+    margin: 0 15px;
+}
+
+.ab:hover {
+    color: #41A451;
+}
+
+.wel {
+    color: white;
+    font-size: 80px;
+    text-align: center;
+}
+
+.ali {
+    align-items: center;
+    padding-top: 200px;
+}
+
+.gi {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+.our {
+    text-align: center;
+    font-size: 22px;
+    color: #fff;
+    margin-top: 6px;
+}
+
+.ve {
+    padding: 66px 40px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -93px;
+    width: 1100px;
+    margin: 0 auto;
+    background: #fff;
+    box-shadow: 0 0 5px rgba(71, 71, 71, .2);
+    border-radius: 7px;
+}
+
+.na {
+    color: #000000CC;
+    font-size: 17px;
+}
+
+.ye {
+    margin-top: 15px;
+    font-size: 21px;
+    color: #000;
+}
+
+.pet {
+    margin-left: 34px;
+    border-right: 1px solid #ccc;
+}
+
+.pet1 {
+    margin: 0 30px;
+
+}
+
+.des {
+    display: flex;
+    font-size: 21px;
+    color: #000;
+    margin-top: 15px;
+}
+
+.fa-plane {
+    margin-left: 15px;
+}
+
+.petc {
+    padding: 15px;
+    color: #fff;
+    background: #000;
+    font-size: 17px;
+}
+
+.pey {
+    margin-right: 50px;
+}
+
+.sell {
+    margin-top: 9px;
+    width: 80px;
+    height: 5vh;
+    font-size: 20px;
+    border: 1px solid #fff;
+}
+
+.sr {
+    width: 30%;
+    margin-right: 215px;
+}
+
+.de {
+    display: flex;
+    justify-content: center;
+    background: #f5f5f5;
+    padding-bottom: 90px;
+}
+
+.wi {
+    width: 30%;
+}
+
+.aj {
+    font-size: 45px;
+    line-height: 1.2;
+}
+
+.pest {
+    margin: 30px 0px 25px 0px;
+    font-size: 17px;
+    color: #151515CC;
+}
+
+.wil {
+    margin: 30px 0px 25px 0px;
+    font-size: 17px;
+    color: #151515CC;
+}
+
+.loggo {
+    color: #000;
+    width: 150px;
+}
+
+.mekk {
+    border-radius: 9px;
+}
+
+.con {
+    background: #f5f5f5;
+}
+
+.forma {
+    position: absolute;
+    bottom: -614px;
+    left: 28%;
+    width: 343px;
+    transform: translateX(-50%);
+}
+
+.tarat {
+    text-align: center;
+    margin: 100px 0;
+}
+
+.fet {
+    color: #000;
+    font-size: 45px;
+    line-height: 1.2;
+    margin: 30px 0px 20px 0px;
+}
+
+.ewo {
+    font-size: 16px;
+    margin-top: 7px;
+    color: #151515CC;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 120px;
+}
+
+.wid {
+    width: 25%;
+    margin: 0 15px;
+}
+
+.rav {
+    color: #000;
+    font-size: 26px;
+    margin: 20px 0;
+    text-align: center;
+}
+
+.dolar {
+    color: #41A451;
+    text-align: center;
+    font-size: 20px;
+}
+
+.padd {
+    padding: 115px 0;
+    background: #f5f5f5;
+}
+
+.or {
+    font-size: 45px;
+    color: #000000CC;
+    text-align: center;
+}
+
+.divs {
+    width: 78%;
+    margin: 0 auto;
+}
+
+.divs1 {
+    background: #323232;
+    border-radius: 10px 10px 0 0;
+    padding: 17px;
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.g1 {
+    font-size: 18px;
+    padding: 35px 25px;
+}
+
+.gg {
+    font-size: 18px;
+    padding: 35px 25px;
+}
+
+.div0 {
+    padding: 20px 0px 70px 0px;
+    background: #fff;
+}
+
+.div1 {
+    padding: 20px 0px 70px 0px;
+    background: #fff;
+}
+
+.div2 {
+    padding: 20px 0px 70px 0px;
+    background: #fff;
+}
+
+.dolar1 {
+    color: #41A451;
+    font-size: 20px;
+    margin-top: 55px;
+}
+
+.oss {
+    color: #000;
+    font-size: 26px;
+    margin: 20px 0;
+}
+
+.bu {
+    color: #151515CC;
+    margin-top: 7px;
+    font-size: 15px;
+}
+
+.mar {
+    max-width: 670px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nkne {
+    display: flex;
+    justify-content: center;
+}
+
+.nkne img {
+    width: 34%;
+}
+
+.erk {
+    display: flex;
+    justify-content: center;
+}
+
+.erk img {
+    width: 50%;
+}
+
+.re {
+    color: #151515;
+    font-size: 45px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.pm {
+    margin: 100px 0;
+}
+
+.er {
+    display: flex;
+    justify-content: center;
+}
+
+.ka {
+    width: 23%;
+    margin: 0 10px;
+}
+
+.class {
+    padding: 6px 12px;
+    color: #fff;
+    background: #323232;
+    border-radius: 3px;
+}
+
+.gen {
+    color: #151515;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.tashn {
+    margin-top: 15px;
+    color: #151515CC;
+    font-size: 15px;
+}
+
+.mo {
+    color: #151515;
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+.pi {
+    margin-top: 25px;
+    display: flex;
+}
+
+.fa-arrows-h {
+    color: #151515;
+}
+
+.alt {
+    position: absolute;
+    left: 48%;
+    width: 95%;
+    transform: translateX(-50%);
+}
+
+.b {
+    width: 100%;
+    height: 40vh;
+}
+
+.devg {
+    padding: 160px;
+    background: #323232;
+}
+
+.def {
+
+    color: #fff;
+    width: 15%;
+}
+
+.ungl {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.je {
+    justify-content: center;
+    display: flex;
+}
+
+.un {
+    margin: 30px 12px;
+    border-right: 1px solid #fff;
+}
+
+.uns {
+    margin: 30px 12px;
+}
+
+.nu {
+    margin-right: 24px;
+}
+
+.fa-facebook {
+    width: 28%;
+    color: white;
+    padding: 12px;
+    border-radius: 50%;
+    height: 2vh;
+    margin: 0 12px;
+    background: #FFFFFF0D;
+    text-align: center;
+}
+
+.fa-instagram {
+    width: 28%;
+    color: white;
+    padding: 12px;
+    border-radius: 50%;
+    height: 2vh;
+    margin: 0 12px;
+    background: #FFFFFF0D;
+    text-align: center;
+}
+
+.fa-twitter {
+    width: 28%;
+    color: white;
+    padding: 12px;
+    border-radius: 50%;
+    height: 2vh;
+    margin: 0 12px;
+    background: #FFFFFF0D;
+    text-align: center;
+}
+
+.fa-youtube-play {
+    width: 28%;
+    color: white;
+    padding: 12px;
+    border-radius: 50%;
+    height: 2vh;
+    margin: 0 12px;
+    background: #FFFFFF0D;
+    text-align: center;
+}
+
+.fa-pinterest-p {
+    width: 28%;
+    color: white;
+    padding: 12px;
+    border-radius: 50%;
+    height: 2vh;
+    margin: 0 12px;
+    background: #FFFFFF0D;
+    text-align: center;
+}
+
+.just {
+    justify-content: center;
+    display: flex;
+
+}
+
+.qsan {
+    text-align: center;
+    font-size: 17px;
+    color: #FFFFFF80;
+    margin-top: 135px;
+
+}
+
+
+@media (max-width: 600px) {
+    .tas {
+        display: none;
+    }
+
+    .bok {
+        margin-left: 169px;
+    }
+
+    .wel {
+        font-size: 50px;
+    }
+    .ali {
+        align-items: center;
+        padding-top: 125px;
+    }
+    .our {
+        font-size: 16px;
+        width: 43%;
+        margin: auto;
+    }
+    .ve {
+        display: none;
+    }
+    .mekk {
+        width: 200%;
+        margin: 184px 44px;
+    }
+    .def {
+        color: #fff;
+        width: 50%;
+    }    
+    .forma {
+        position: absolute;
+        bottom: -196px;
+        left: 32%;
+        width: 190px;
+        transform: translateX(-50%);
+    }
+   .aj{
+    font-size: 31px;
+    line-height: 0.2;
+   }
+   .pest, .wil {
+    font-size: 14px;
+   }
+   .wi {
+    width: 30%;
+   margin: 80px 25px 0px 0px;
+}
+.fet {
+    color: #000;
+    font-size: 33px;
+    line-height: 1.2;
+}
+.ewo {
+    width: 49%;
+    margin: auto;
+    font-size: 16px;
+    margin-top: 7px;
+    color: #151515CC;
+}
+.un {
+    display: none;
+}
+.nu {
+    display: none;
+}
+.mar {
+    width: 78%;
+}
+.qsan {
+    margin-top: 57px;
+}
+.nkne {
+    width: 99%;
+}
+.re {
+    color: #151515;
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 72px;
+}
+.gen {
+    color: #151515;
+    font-size: 18px;
+    margin-top: 15px;
+}
+.mo {
+    color: #151515;
+    font-size: 17px;
+    margin-right: 20px;
+}
+.b {
+    width: 100%;
+    height: 18vh;
+}
+.alt {
+    position: absolute;
+    left: -2%;
+    height: 16vh;
+    width: 102%;
+    transform: translateX(-46%);
+    transform: translateY(13%);
+}
+.ungl {
+    display: block;
+}
+.imgg {
+    height: 64vh;
+}
+element.style {
+    font-size: 36px;
+}
+}
