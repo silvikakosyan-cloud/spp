@@ -12,11 +12,8 @@ img {
 }
 
 .imgg {
-<<<<<<< HEAD
-    background: url("https://livedemo00.template-help.com/wt_53136/images/bg-bunner-2.jpg");
-=======
     background: url("./bg-bunner-2.jpg");
->>>>>>> ceb8943 (add img)
+
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
