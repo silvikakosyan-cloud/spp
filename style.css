@@ -12,7 +12,7 @@ img {
 }
 
 .imgg {
-    background: url(https://livedemo00.template-help.com/wt_53136/images/bg-bunner-2.jpg);
+    background: url("https://livedemo00.template-help.com/wt_53136/images/bg-bunner-2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
